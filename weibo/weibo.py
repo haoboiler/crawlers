@@ -7,7 +7,7 @@ from weibo import APIClient
 import webbrowser  # python
 import csv
 
-cookie = '_T_WM=b806bb881de8330b42334c27bb700865; ALF=1533577510; SCF=AgCIp4c5XS8cemEbzp8ZSGoGSF-aHTlQQeJ9pRMgnkqDcIx8ccUySb9Ey8ZTU8bW2km71z-L2vyPmcyPIwZLA0A.; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFsGwwYZRi7-WSF1U9f6ThP5JpX5K-hUgL.Foep1K2Reo2Eeh-2dJLoI7DzqgvkqJvDdsHE; SUB=_2A252RWK0DeRhGeVP4lMZ8i_OyzmIHXVVxg78rDV6PUJbkdAKLUSskW1NTSbkCmVYBnaMMXXdidvHGiWZch_SLJSr; SUHB=0A0Z2OsqV42kWy; SSOLoginState=1530991332'
+cookie = ''
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0',
     'cookie': cookie
